@@ -1,0 +1,3 @@
+/home/abstract/projects/tutorial2/Task_3/build/CMakeFiles/reverse_words.dir
+/home/abstract/projects/tutorial2/Task_3/build/CMakeFiles/edit_cache.dir
+/home/abstract/projects/tutorial2/Task_3/build/CMakeFiles/rebuild_cache.dir

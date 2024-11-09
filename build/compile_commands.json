@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/abstract/projects/tutorial2/Task_3/build",
+  "command": "/usr/bin/c89-gcc   -g -o CMakeFiles/reverse_words.dir/main.c.o -c /home/abstract/projects/tutorial2/Task_3/main.c",
+  "file": "/home/abstract/projects/tutorial2/Task_3/main.c",
+  "output": "CMakeFiles/reverse_words.dir/main.c.o"
+}
+]

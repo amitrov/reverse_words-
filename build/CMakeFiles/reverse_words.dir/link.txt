@@ -1,0 +1,1 @@
+/usr/bin/c89-gcc -g CMakeFiles/reverse_words.dir/main.c.o -o reverse_words 
